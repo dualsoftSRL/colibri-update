@@ -1,0 +1,9 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3",
+  "downloaderCode": "9339731",
+  "apkUrl": "https://github.com/dualsoftSRL/colibri-update/raw/main/colibri-tv.apk",
+  "mandatory": false,
+  "publishedAt": "2026-11-08",
+  "changelog": "• Categorías por App de Streaming (Netflix, Prime Video, Disney+, Max, Apple TV+, Paramount+, Crunchyroll, ViX)\n• Distintivo ¿Dónde verla? con logo oficial en portadas, pósters y pantalla de detalle\n• Nivel 1: Logos oficiales PNG transparentes y barra Spotlight contextual\n• Nivel 2: Fila Seguir Viendo panorámica 16:9 con botón rápido Quitar y Shimmer Skeleton\n• Nivel 3: Post-Play Siguiente Episodio con cuenta regresiva y salto acelerado (+10s/+20s/+30s/+60s)"
+}
