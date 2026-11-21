@@ -1,0 +1,9 @@
+{
+  "versionCode": 63,
+  "versionName": "1.62",
+  "downloaderCode": "9339731",
+  "apkUrl": "https://github.com/dualsoftSRL/colibri-update/raw/main/colibri-tv.apk",
+  "mandatory": false,
+  "publishedAt": "2026-11-21",
+  "changelog": "v1.62: Optimización extrema para Firestick (arranque instantáneo < 1s, cero congelamientos, carga bajo demanda de géneros y Live TV sin duplicados)."
+}
