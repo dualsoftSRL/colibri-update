@@ -1,0 +1,10 @@
+{
+  "versionCode": 114,
+  "versionName": "2.13",
+  "downloaderCode": "9339731",
+  "apkUrl": "https://raw.githubusercontent.com/dualsoftSRL/colibri-update/main/colibri-tv.apk",
+  "mandatory": true,
+  "publishedAt": "2026-11-27",
+  "changelog": "Categorías dinámicas gestionadas desde el panel web de Colibrí (con soporte de Mega-categorías y subcategorías)",
+  "releaseNotes": "Categorías dinámicas gestionadas desde el panel web de Colibrí (con soporte de Mega-categorías y subcategorías)"
+}
